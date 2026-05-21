@@ -1,0 +1,1 @@
+# text-sync-extension
